@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JayPatilll
-- 👀 I’m interested in Mathematics
+- 👋 Hi, I’m @JayPatil
+- 👀 I’m interested in Mathematics,SQL,Excel,Tableau,Python
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data analyst 
 - 📫 How to reach me 9766939113
